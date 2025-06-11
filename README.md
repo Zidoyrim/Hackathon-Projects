@@ -1,4 +1,4 @@
 # Hackathon-Projects
 Some Solutions 
-Daily Digest Email Copy 
+Daily Digest Email 
 pull the project to VS CODE 
